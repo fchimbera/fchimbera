@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Freeman Chimbera! 👋
 
-<!--
-**fchimbera/fchimbera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+I'm a passionate **Backend Web Developer** with experience in **Python and PHP**. I enjoy tackling complex problems, learning new skills and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: **Django and PostgreSQl**
+- 🔭 Working on: **TECHDESK web application**
+- 🌍 Languages: **English and Shona**
+- 📫 How to reach me: **chimberafreeman@gmail.com**
+
+## My Skills 🧠
+
+- **HTML**
+- **CSS**
+- **JAVASCRIPT**
+- **PHP**
+- **PYTHON**
+
