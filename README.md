@@ -11,7 +11,8 @@ I'm a passionate **Backend Web Developer** and **Security Analyst** with experie
 - 🔭 Working on: **TECHDESK web application**
 - 🌍 Languages: **English and Shona**
   
-###📫 How to reach me: 
+###📫 How to reach me:
+<p align= "center">
 <a href="mailto:chimberafreeman@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
 </a>
@@ -21,7 +22,7 @@ I'm a passionate **Backend Web Developer** and **Security Analyst** with experie
 <a href="https://www.linkedin.com/in/freeman-chimbera" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
-
+</p>
 
 ## Vision
 
