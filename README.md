@@ -5,12 +5,23 @@
 
 ## About Me 🚀
 
-I'm a passionate **Backend Web Developer** with experience in **Python and PHP**. I enjoy tackling complex problems, learning new skills and technologies.
+I'm a passionate **Backend Web Developer** and **Security Analyst** with experience in **Python and PHP**, and **Splunk**. I enjoy tackling complex problems, learning new skills and technologies. I am currently deepening my knowledge of Backend engineering and Cybersecurity through the **ALX ProDev Backend Development Program** and **TryHackME labs**.
 
 - 🌱 Currently learning: **Django and PostgreSQl**
 - 🔭 Working on: **TECHDESK web application**
 - 🌍 Languages: **English and Shona**
-- 📫 How to reach me: **chimberafreeman@gmail.com**
+  
+###📫 How to reach me: 
+<a href="mailto:chimberafreeman@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+</a>
+<a href="https://wa.me/" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" />
+</a>
+<a href="https://www.linkedin.com/in/freeman-chimbera" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+
 
 ## Vision
 
@@ -36,8 +47,9 @@ I aim to grow and mastermy skills as Backend Developer and engineer backend syst
 
 ## GITHUB Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fchimbera&show_icons=true&theme=default" alt="Freeman's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchimbera&layout=compact&theme=default" alt="Top Languages" />
-</p>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=fchimbera&show_icons=true&theme=default" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchimbera&layout=compact&theme=default" alt="Top Languages" width="48%" />
+</div>
+
 
